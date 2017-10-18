@@ -1,6 +1,6 @@
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/AddThis/icon_stroke_social_addthis.svg",
-  "tag": "nadia tag",
+  "tag": "qa",
   "affiliates":["wnow"],
   "propTypes": {
     "title": "PropTypes.string",
