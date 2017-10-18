@@ -7,7 +7,7 @@ class RandomTest extends Component {
   }
   render(){
     let {
-      h2 = 'sup this a github edit',
+      h2 = 'nadia is here guys',
     } = this.props;
 
     let {
